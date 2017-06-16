@@ -1,0 +1,11 @@
+el.ni.dll: 0x68f60000-0x6a266000
+2017-06-16 19:19:47.0176|ERROR|thread: 1|CrashManager|C:\WINDOWS\assembly\NativeImages_v4.0.30319_32\System.Data\b7976fc761d4bb54ef6aba77b55b99bf\System.Data.ni.dll: 0x5d010000-0x5d7ac000
+2017-06-16 19:19:47.0176|ERROR|thread: 1|CrashManager|C:\WINDOWS\Microsoft.Net\assembly\GAC_32\System.Data\v4.0_4.0.0.0__b77a5c561934e089\System.Data.dll: 0x5bf30000-0x5c26f000
+2017-06-16 19:19:47.0176|ERROR|thread: 1|CrashManager|C:\WINDOWS\System32\WS2_32.dll: 0x744c0000-0x74527000
+2017-06-16 19:19:47.0176|ERROR|thread: 1|CrashManager|C:\WINDOWS\System32\CRYPT32.dll: 0x75870000-0x759ed000
+2017-06-16 19:19:47.0176|ERROR|thread: 1|CrashManager|C:\WINDOWS\System32\MSASN1.dll: 0x75c00000-0x75c0e000
+2017-06-16 19:19:47.0176|ERROR|thread: 1|CrashManager|C:\WINDOWS\assembly\NativeImages_v4.0.30319_32\System.Runteb92aa12#\ee8a3072ccb8b816e9bbd171598f28d5\System.Runtime.Serialization.ni.dll: 0x5d870000-0x5db28000
+2017-06-16 19:19:47.0176|ERROR|thread: 1|CrashManager|C:\WINDOWS\system32\dwmapi.dll: 0x6ab90000-0x6abb3000
+2017-06-16 19:19:47.0176|ERROR|thread: 1|CrashManager|C:\Windows\Microsoft.NET\Framework\v4.0.30319\diasymreader.dll: 0x68e70000-0x68f58000
+2017-06-16 19:19:47.0176|ERROR|thread: 1|CrashManager|C:\WINDOWS\assembly\NativeImages_v4.0.30319_32\System.Net.Http\8cbe97388b31e6dab8b1a79cb5cc8de7\System.Net.Http.ni.dll: 0x6b040000-0x6b0c2000
+2017-06-16 19:19:47.0176|ERROR|thread: 1|CrashManager|C:\WINDOWS\assembly\NativeImages_v4.0.30319_32\System.Compba577418#\6ba2c8340bf16a051cf41bb63220e01d\System.ComponentModel.Composition.ni.dll: 0x68d60000-0x68e

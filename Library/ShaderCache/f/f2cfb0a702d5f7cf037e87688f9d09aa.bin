@@ -1,0 +1,12 @@
+templateRoot, Int32 lastChildIndex, HybridDictionary childIndexFromChildID, FrameworkTemplate frameworkTemplate)
+   в System.Windows.FrameworkTemplate.ApplyTemplateContent(UncommonField`1 templateDataField, FrameworkElement container)
+   в System.Windows.FrameworkElement.ApplyTemplate()
+   в System.Windows.FrameworkElement.MeasureCore(Size availableSize)
+   в System.Windows.UIElement.Measure(Size availableSize)
+   в System.Windows.Controls.Border.MeasureOverride(Size constraint)
+   в System.Windows.FrameworkElement.MeasureCore(Size availableSize)
+   в System.Windows.UIElement.Measure(Size availableSize)
+   в System.Windows.Controls.Control.MeasureOverride(Size constraint)
+   в System.Windows.FrameworkElement.MeasureCore(Size availableSize)
+   в System.Windows.UIElement.Measure(Size availableSize)
+   в System.Windows.Controls.VirtualizingStackPanel.MeasureChild(IItemContainerGenerator& generator, IContainItemStorage& itemStorageProvider, IContainItemStorage& parentItemStorageProvider, Object& parentItem, Boolean& hasUniformOrAverageContainerSizeBeenSet, Double& c
